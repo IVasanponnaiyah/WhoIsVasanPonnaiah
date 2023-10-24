@@ -39,7 +39,7 @@ Also, I play a role as a Tech Panel 📈 at Wipro apart from my existing role an
 
 </p>
 
-LinkedIn - https://www.linkedin.com/in/vasan-ponnaiah/ <br/> 
+LinkedIn - https://www.linkedin.com/in/vasan-ponnaiyah-b095b356 <br/> 
 GitHub - https://github.com/IVasanponnaiyah </br>
 Portfolio - For portfolio connect with me.  <br/>
 
