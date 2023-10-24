@@ -45,31 +45,6 @@ Portfolio - For portfolio connect with me.  <br/>
 
 --------
 
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=vasanponnaiah&theme=highcontrast&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vasanponnaiah)
--->
-
-<hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasanponnaiah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="vasanponnaiah" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vasanponnaiah&show_icons=true&locale=en&theme=chartreuse-dark" alt="vasanponnaiah" width="410" /></p>
-<br><br><br><br><br>
-<hr>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vasanponnaiah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-
-<p align="center">
-<div align=center>
-  <a href="https://github.com/vasanponnaiah/JavaScriptCodingInterviewQuestions" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=vasanponnaiah&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
-
 <!--
 **IVasanponnaiah/WhoIsVasanPonnaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
